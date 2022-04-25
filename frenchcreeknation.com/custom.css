@@ -139,7 +139,7 @@
 	 left: 80%;
 }
 
-.3column {
+.column3 {
   float: left;
   width: 33.33%;
 }
@@ -151,7 +151,7 @@
   clear: both;
 }
 
-.2column {
+.column2 {
   float: left;
   width: 50.00%;
 }
