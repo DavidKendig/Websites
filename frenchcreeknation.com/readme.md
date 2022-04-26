@@ -17,6 +17,10 @@ Perfered Stock Ticker
 {
 "symbols": [
 {
+"description": "",
+"proName": "SKILLING:DJ30"
+},
+{
 "proName": "FOREXCOM:SPXUSD",
 "title": "S&P 500"
 },
